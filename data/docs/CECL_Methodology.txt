@@ -1,0 +1,15 @@
+CECL Methodology Overview
+
+The Current Expected Credit Loss (CECL) framework requires institutions to estimate lifetime credit losses at the time of loan origination.
+
+Expected Credit Loss (ECL) is calculated using:
+ECL = PD × LGD × EAD
+
+Key Drivers:
+- Probability of Default (PD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+
+Macroeconomic variables such as GDP growth, unemployment rate, and interest rates significantly impact PD estimates.
+
+Under stressed scenarios, higher unemployment typically leads to increased PD, resulting in higher expected losses.
