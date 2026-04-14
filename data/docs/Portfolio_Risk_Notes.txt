@@ -1,0 +1,11 @@
+Portfolio Risk Analysis Notes
+
+Retail and SME segments show higher sensitivity to macroeconomic changes.
+
+Observed trends:
+- PD increases when unemployment rises
+- SME portfolio shows higher volatility in stress scenarios
+- Corporate segment is more stable due to diversified exposure
+
+Risk concentration:
+- Higher exposure in SME segment leads to higher portfolio risk

@@ -1,0 +1,13 @@
+Model Governance Overview
+
+All models must comply with regulatory standards such as SR 11-7.
+
+Key requirements:
+- Model validation and backtesting
+- Documentation of assumptions and limitations
+- Regular monitoring and performance review
+
+Model risk increases when:
+- Assumptions are violated
+- Data quality is poor
+- External economic conditions change significantly

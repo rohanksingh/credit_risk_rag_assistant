@@ -1,0 +1,13 @@
+PD Model Assumptions
+
+The Probability of Default (PD) model is built using logistic regression and macroeconomic variables.
+
+Key assumptions:
+- PD increases with rising unemployment
+- PD decreases with GDP growth
+- Borrower credit score is a significant predictor
+- Industry-specific risk factors influence default rates
+
+Limitations:
+- Model assumes linear relationships between macro variables and default risk
+- Model performance may degrade under extreme stress scenarios

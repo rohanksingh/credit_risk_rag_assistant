@@ -1,0 +1,16 @@
+Stress Testing Scenario Notes
+
+Three scenarios are considered:
+1. Baseline
+2. Adverse
+3. Severely Adverse
+
+Severely adverse scenario includes:
+- Unemployment increase by 3-5%
+- GDP contraction
+- Decline in asset prices
+
+Impact:
+- PD increases significantly under stress
+- LGD may increase due to declining collateral values
+- ECL rises sharply in high-risk segments such as SME and Retail
